@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    max-width: 25%;
+    overflow: hidden;
+    border-radius: 8px; 
+    margin-bottom: 20px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .number {
+    position: absolute;
+    top: 10px;
+    
+color: #7480B2;
+    right: 14px;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 600;
+    word-wrap: break-word
+  }
